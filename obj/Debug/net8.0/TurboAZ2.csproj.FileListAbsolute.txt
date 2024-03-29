@@ -1,0 +1,5 @@
+C:\Users\ahmed\Desktop\Task2AA\TurboAZ2\TurboAZ2\obj\Debug\net8.0\TurboAZ2.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Task2AA\TurboAZ2\TurboAZ2\obj\Debug\net8.0\TurboAZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\Task2AA\TurboAZ2\TurboAZ2\obj\Debug\net8.0\TurboAZ2.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Task2AA\TurboAZ2\TurboAZ2\obj\Debug\net8.0\TurboAZ2.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Task2AA\TurboAZ2\TurboAZ2\obj\Debug\net8.0\TurboAZ2.csproj.CoreCompileInputs.cache
